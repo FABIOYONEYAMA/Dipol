@@ -19,7 +19,7 @@ Valdecir Brito: vbrito@sp.gov.br
 
 1. Acesse o site da [Central de Suporte IBM](https://www.ibm.com/mysupport/s/?language=en_US) e em seguida clique no menu **"OPEN A CASE"**
 
-![Site da Central de Suporte IBM](assets/img/abertura-chamado-ibm/001_IBM_Cloud-Central_Suporte.png)
+![Site da Central de Suporte IBM](/assets/img/abertura-chamado-ibm/001_IBM_Cloud-Central_Suporte.png)
 
 2. Em seguida o **Analista Prodesp** deverá inserir suas **credenciais válidas** para ter acesso ao **painel de abertura de chamados**.
 
