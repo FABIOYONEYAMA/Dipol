@@ -22,6 +22,6 @@ Acesse o log do backend **[dipol-endereco-service]:**
 kubectl logs -l app=dipol-endereco-service -f
 
 ```
-![Erro_not_authorized_api_key](/assets/img/erro-ao-buscar-geolocalização-na-api_001.png)
+![Erro_not_authorized_api_key](assets/img/erro-ao-buscar-geolocalização-na-api_001.png)
 
 **Salve os endereços** que apresentam erro na mensagem e adicione na **Whitelist da API MAPS**.
